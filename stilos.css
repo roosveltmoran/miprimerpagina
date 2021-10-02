@@ -1,0 +1,14 @@
+.logo{
+    width: 10%;
+}
+
+.redes{
+    width: 25px;
+    margin: 10px 5px;
+}
+.fondo{
+    padding: 8%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image:  url(img/mecanica_automotriz.jpg)
+}
